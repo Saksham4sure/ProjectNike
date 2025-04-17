@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import 'remixicon/fonts/remixicon.css';
+
+@font-face {
+    font-family: Nike;
+    src: url(/HelveticaNowText.ttf);
+}
+
+@font-face {
+    font-family: NikeMd;
+    src: url(/HelveticaNowTextMedium.ttf);
+}
+
+@font-face {
+    font-family: Futura;
+    src: url(/Nike-Futura-ot-300.ttf);
+}
+
+@font-face {
+    font-family: gly;
+    src: url(/public/HelveticaNowDisplayMedium.ttf);
+}
